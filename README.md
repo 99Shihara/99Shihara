@@ -29,9 +29,6 @@ Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
 					<img src="https://img.icons8.com/external-sketchy-juicy-fish/0.6x/external-blog-online-services-sketchy-sketchy-juicy-fish.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="instragtam">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-				
-      </div>
-
 </p>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
@@ -46,7 +43,7 @@ Callme: ***She/Her*** or ***TeamWorker*** 😊 <br>
   <code> <img height="50" src="  https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> </code>
 
   <hr>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saJJiK&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=99Shihara&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
 ---
 
